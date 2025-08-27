@@ -21,7 +21,6 @@ Visualization: Plotly
 
 ML Model: Random Forest Classifier
 
-Deployment: Streamlit Community Cloud
 
 🚀 Quick Start
 Prerequisites
@@ -32,9 +31,7 @@ pip package manager
 Installation
 Clone the repository
 
-bash
-git clone https://github.com/YOUR_USERNAME/employee-attrition-predictor.git
-cd employee-attrition-predictor
+
 Install dependencies:
 
 bash
@@ -47,20 +44,8 @@ Run the application locally:
 
 bash
 streamlit run app.py
-🌐 Live Deployment
-Experience the full application live:
-https://your-app-name.streamlit.app/
 
-📁 Project Structure
-text
-employee-attrition-predictor/
-├── app.py                 # Main Streamlit application
-├── train_model.py         # Model training script
-├── requirements.txt       # Python dependencies
-├── employee_attrition_model.joblib  # Trained model
-├── README.md              # This file
-└── assets/               # Images and demo files
-    └── demo.gif          # Application demo
+
 📊 Model Performance
 Accuracy: 87%
 
@@ -106,8 +91,7 @@ Push to the branch (git push origin feature/AmazingFeature)
 
 Open a Pull Request
 
-📝 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
 
 🙏 Acknowledgments
 Ellevo Pathways for the machine learning internship opportunity
