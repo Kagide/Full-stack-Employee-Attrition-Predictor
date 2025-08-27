@@ -1,0 +1,26 @@
+[server]
+runOnSave = true
+
+[logger]
+level = "info"
+
+[client]
+toolbarMode = "minimal"
+
+[theme]
+base = "light"
+primaryColor = "#1f77b4"
+backgroundColor = "#e8f5e8"
+secondaryBackgroundColor = "#f5f5f5"
+textColor = "#333333"
+font = "sans serif"
+
+[browser]
+gatherUsageStats = false
+
+[deprecation]
+showPydeckJson = false
+showSidebar = false
+
+[global]
+compatibilityMode = false
